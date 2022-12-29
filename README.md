@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @merihcavdar
-- 👀 I’m interested in Flutter and VBA for Excel
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Flutter & Dart language
 - 📫 How to reach me ...
 
 <!---
