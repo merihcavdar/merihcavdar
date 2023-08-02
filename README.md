@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @merihcavdar
-- 👀 I can summarize myself as a dedicated self-learner. I got C1 certificates in English, German and French languages.
-- 👀 I can spot the missing subjects to improve myself as a software engineer and I always need to learn something new. I enjoy taking courses from various sources. Especially from Udemy and Linkedin-Learning platforms.
+- 👋 Hi, I’m merih
+- 👀 I can summarize myself as a dedicated self-learner.
 - 👀 I’m experienced in Flutter & Dart language and all the related technologies such as:
 - ✨ Version Control Systems: Git, GitLab, GitHub
 - ✨ Databases: SQL, MySQL, SQLite, MongoDB
